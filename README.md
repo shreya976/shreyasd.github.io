@@ -12,7 +12,7 @@ I was always fascinated by the predictive models in statistics, and have intensi
 
 
 
- What is the impact
+## What is the impact
 
 Such methodology promises a great deal of application in field which generates skewed data, including stock prediction, disease outbreak, natural disaster, meteriological data etc. Also, proposing a new models in non-parametric domain will give a foundation for developing the new statistical validation, like inference , hypothesis testing and evaluation metrics. Given the many facet application , dire need alternative methodody and to use avaialable computational capability, such models are the need of hour.
 
@@ -21,10 +21,10 @@ Such methodology promises a great deal of application in field which generates s
 
 
 
-proposal
+##proposal
 shreyashs.deshmukh23
 October 2023
-1 Problem Statement
+## 1 Problem Statement
 Time series data frequently exhibit unexpected and irregular spikes, impacting
 a wide array of applications including finance, energy consumption, disease outbreaks, meteorological events, healthcare, and anomaly detection. These sudden
 spikes can be triggered by various factors, such as unforeseen events, anomalies,
